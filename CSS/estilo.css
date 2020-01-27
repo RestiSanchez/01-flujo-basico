@@ -1,3 +1,7 @@
 a {
     color: salmon;
 }
+
+abbr:hover {
+    color: red;
+}
